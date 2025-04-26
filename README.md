@@ -266,3 +266,5 @@ Leia a documentação da linguagem Go sobre como obter essas ferramentas
 
 Em caso de problemas ou dúvidas, entre em contato com um dos administradores
 no nosso [canal no Telegram](http://t.me/osprogramadores)
+
+
